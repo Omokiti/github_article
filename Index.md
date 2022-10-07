@@ -59,7 +59,7 @@ There are six steps to clone a repository from GitHub.
 
 From the landing page click on the **Sign In** button.
  
-![github_landing page.png](images/github_landing page.png)
+![github_landing_page](images/github_landing_page.png)
 
 **Step 2**
 
