@@ -1,8 +1,7 @@
-<meta property="og:description" content="Introduction to GitHub">
-<meta property="og:url" content="https://developers.google.com/style"><meta property="og:image" content="https://www.gstatic.com/devrel-devsite/prod/v3462c96ac67b219823d8a74cdbc490c2c319f90ecc3df183f872ce93dd06a4da/developers/images/opengraph/indigo.png">
-  <meta property="og:image:width" content="1200">
-  <meta property="og:image:height" content="675"><meta property="og:locale" content="en"><meta name="twitter:card" content="summary_large_image">
-  
+<title>Introduction to GitHub</title>
+<meta name="description" content="An introductory article to GitHub">
+
+
 # Introduction to GitHub
 
 ![GitHub Image](images/github.jpg)
@@ -60,7 +59,7 @@ There are six steps to clone a repository from GitHub.
 
 From the landing page click on the **Sign In** button.
  
-![github_landing page.png](images/github_landing page.png)
+![github_landing_page](images/github_landing_page.png)
 
 **Step 2**
 
@@ -152,7 +151,7 @@ git push -u origin
 ```
 when you are pushing your work to GitHub for the first time. 
 
-In subsequent push you make you can use only **git push** the name of your branch.
+In subsequent push you make you can use only **git push**
 
 ### How to do a Pull Request
 
