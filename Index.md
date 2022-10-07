@@ -151,7 +151,7 @@ git push -u origin
 ```
 when you are pushing your work to GitHub for the first time. 
 
-In subsequent push you make you can use only **git push** the name of your branch.
+In subsequent push you make you can use only **git push**
 
 ### How to do a Pull Request
 
