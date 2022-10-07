@@ -1,4 +1,4 @@
-<title>Introduction to GitHub</title>
+
 <meta name="description" content="An introductory article to GitHub">
 
 
