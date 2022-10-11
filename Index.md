@@ -26,7 +26,7 @@ Developers  from different parts of the world can work collaboratively with one 
 
 - Backup
 
-Your code is safe and secure on your repository. In a situation where your system get's faulty or stolen. You can be rest assured that your code is safe in your repository.
+Your code is safe and secure on your repository. In a situation where your system gets faulty or stolen. You can be assured that your code is safe in your repository.
 
 - Community
 
@@ -36,7 +36,7 @@ GitHub has a large community. so imagine your code being seen by the large commu
 Most times we  confuse Git for GitHub and vice versa. Well, Git is a version control system that lets you manage and keep track of your source code history and GitHub is a hosting site where developers and programmers can upload the code they create and work collaboratively to improve it.
 
 ### GitHub Workflow
-GitHub has a lot of commands but for this tutorial, we will touch on three of them which are essential in the GitHub workflow.;
+GitHub has a lot of commands but for this tutorial, I will touch on three of them which are essential in the GitHub workflow.;
 
 1. Cloning a repository
 2. How to commit  
@@ -49,7 +49,7 @@ As the name implies, Cloning is making a copy of a specific repository. A reposi
 
 **Pre-requisite for cloning**
 
-In order to clone a repo from GitHub, you have to first have an account on [GitHub](https://github.com/).
+To to clone a repo from GitHub, you have to first have an account on [GitHub](https://github.com/).
 
 Let's assume you landed your first gig and you have been given access to the company's repository on GitHub and you need the files on your computer so that you can start working. That is where cloning comes in handy.
 
