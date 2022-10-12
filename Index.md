@@ -7,16 +7,16 @@
 ![GitHub Image](images/github.jpg)
 
 # Introduction
- In this article, we will learn about GitHub, what is GitHub, why GitHub is important, the difference between Git and GitHub, the difference between GitHub Desktop and GitHub CLI, and also how to do some basic commands such as clone, pull request and commit.
+ GitHub is an important tool to learn as a developer. By the end of this article, you will learn about GitHub, what is GitHub, why GitHub is important, the difference between GitHub and Git as well as the difference between GitHub Desktop and GitHub CLI, and also how to carry out some basic commands such as clone, pull request and commit.
 
 ### What is GitHub
  GitHub has a lot of definitions but I like to define it as an online storage that can be used for storing your code and tracking your code, but there is more to GitHub than that. 
 
-We will be going with the definition from [liveaboutdotcom](https://www.liveabout.com/what-is-github-and-why-should-i-use-it-2071946).
+I will be going with the definition from [liveaboutdotcom](https://www.liveabout.com/what-is-github-and-why-should-i-use-it-2071946).
  
 > GitHub is a hosting site where developers and programmers can upload the code they create and work collaboratively to improve it. A defining feature of GitHub is its robust version control system. The version control lets coders tweak software—potentially fixing bugs or improving efficiency—without affecting the software itself or risking the experience of any current users.
 
-### Why GitHub?
+### Why GitHub
 
 There are a lot of advantages that GitHub offers such as;
  
@@ -33,7 +33,7 @@ Your code is safe and secure on your repository. In a situation where your syste
 GitHub has a large community. so imagine your code being seen by the large community.
 
 ### Git vs GitHub
-Most times we  confuse Git for GitHub and vice versa. Well, Git is a version control system that lets you manage and keep track of your source code history and GitHub is a hosting site where developers and programmers can upload the code they create and work collaboratively to improve it.
+Most times we confuse Git for GitHub and vice versa. Well, Git is the  control system that lets you manage and keep track of your source code history and GitHub is the service for projects that use Git. 
 
 ### GitHub Workflow
 GitHub has a lot of commands but for this tutorial, I will touch on three of them which are essential in the GitHub workflow.;
@@ -49,15 +49,15 @@ As the name implies, Cloning is making a copy of a specific repository. A reposi
 
 **Pre-requisite for cloning**
 
-To to clone a repo from GitHub, you have to first have an account on [GitHub](https://github.com/).
+To clone a repo from GitHub, you have to first have an account on [GitHub](https://github.com/).
 
 Let's assume you landed your first gig and you have been given access to the company's repository on GitHub and you need the files on your computer so that you can start working. That is where cloning comes in handy.
 
 There are six steps to clone a repository from GitHub.
 
 **Step 1**
-
-From the landing page click on the **Sign In** button.
+ 
+From the GitHub landing page click on the **Sign In** button.
  
 ![github_landing_page](images/github_landing_page.png)
 
@@ -73,7 +73,7 @@ You will be routed to the company's GitHub account. Click on the **Repository** 
 
 ![mygithub_page](images/mygithub_page.png)
 
-**Note**: I am using my personal account for the screenshot in step 3. I do not have the right to paste a company's own without permission.
+**Note**: I am using my personal account for the screenshot in step 3. I do not have the right to put a company's GitHub account without permission.
 
 **Step 4**
 
@@ -99,7 +99,7 @@ Open your vs code and click on the terminal.
 Make sure you are in the correct directory. I am cloning mine to the "Desktop" folder on my system. 
 
 ```
-git clone
+git clone https://github.com/Omokiti/maro.git
 ``` 
 Use the command  above to clone the repository. i.e git clone the URL we copied from our repo on GitHub and hit enter
 
